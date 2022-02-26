@@ -2,4 +2,6 @@ export const remove = (arr: unknown[], index: number) => {
     arr.splice(index, 1);
 }
 
-export const test = () => {}
+export const test = () => {
+    console.log("xxx")
+}
