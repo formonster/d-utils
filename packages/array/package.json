@@ -13,7 +13,7 @@
   "main": "./dist/d-array.cjs",
   "module": "./dist/d-array.module.js",
   "unpkg": "./dist/d-array.umd.js",
-  "types": "typings/array.d.ts",
+  "types": "./typings/array.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
