@@ -3,5 +3,5 @@ export const remove = (arr: unknown[], index: number) => {
 }
 
 export const test = () => {
-    console.log("xxx111")
+    console.log("123")
 }
