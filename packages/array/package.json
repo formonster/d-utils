@@ -20,7 +20,8 @@
   },
   "files": [
     "lib",
-    "dist"
+    "dist",
+    "typings"
   ],
   "publishConfig": {
     "registry": "http://localhost:4873/"
