@@ -1,6 +1,6 @@
 {
   "name": "@ding/array",
-  "version": "0.0.3",
+  "version": "0.0.2-alpha.2+0031b3a",
   "description": "> TODO: description",
   "author": "zhangding <1739237939@qq.com>",
   "homepage": "https://github.com/formonster/d-utils#readme",
@@ -41,5 +41,5 @@
   "dependencies": {
     "microbundle": "^0.14.2"
   },
-  "gitHead": "8927ecff95fdc7b4c463fc21c93431067440ba29"
+  "gitHead": "0031b3ac63a46a3fdab59943019a8ad4a70f8968"
 }
