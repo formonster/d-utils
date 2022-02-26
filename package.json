@@ -7,6 +7,7 @@
   "scripts": {
     "build": "lerna run build",
     "publish": "lerna publish",
-    "publish:canary": "lerna publish -c"
+    "publish:alpha": "lerna publish --npm-tag alpha",
+    "publish:beta": "lerna publish --npm-tag beta"
   }
 }
